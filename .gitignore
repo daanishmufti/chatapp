@@ -1,0 +1,16 @@
+# AI coding agent chat history (never commit)
+.specstory/
+.claude/
+.cursor/
+.codex/
+.aider*
+.windsurf/
+.continue/
+.history/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+node_modules/
